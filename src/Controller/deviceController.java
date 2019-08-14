@@ -16,7 +16,7 @@ public class deviceController {
 		return true;
 	}
 	
-	public boolean schlieﬂen() {
+	public boolean schliessen() {
 		this.device.setTuerZu(true);
 		this.device.setLampeAn(false);
 		this.device.setRoehreAn(false);

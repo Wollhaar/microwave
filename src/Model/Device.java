@@ -14,15 +14,15 @@ public class Device {
 	}
 	
 	public boolean isTuerZu() {
-		return this.tuerZu;
+		return tuerZu;
 	}
 	
 	public boolean isRoehreAn() {
-		return this.roehreAn;
+		return roehreAn;
 	}
 	
 	public boolean isLampeAn() {
-		return this.lampeAn;
+		return lampeAn;
 	}
 	
 	public void setTuerZu(boolean aufZu) {
